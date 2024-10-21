@@ -9,3 +9,4 @@ $ git add .
 $ git commit -m "some message"
 $ git push
 ```
+I managed to fork, too
